@@ -1,0 +1,15 @@
+body{
+    background-image: url(./assets/images/2018112417103340.gif);
+    width: 100%;
+}
+.title{
+    color: #D6001C;
+    font-size: 2rem;
+    font-family: 'Mountains of Christmas', 'sefir';
+}
+.container{
+    display: flex;
+}
+.container > div > img{
+    width: 120px;
+}
